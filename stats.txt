@@ -1,0 +1,17 @@
+Updated: 01/03/2026 05:34 (Kiev)
+Most stable proxies: 78
+Stable proxies: 574
+Unstable proxies: 6237
+Telegram proxies: 23
+Countries: 33
+HTTP: 50
+HTTPS: 411
+SOCKS4: 29
+SOCKS5: 71
+
+discord.com: 537 | x.com: 520 | twitch.tv: 516 | chatgpt.com: 516 | youtube.com: 515 | instagram.com: 513 | google.com: 506 | bing.com: 506 | tiktok.com: 505 | vk.com: 499 | steampowered.com: 497 | netflix.com: 493 | dewu.com: 460 | yandex.ru: 456 | avito.ru: 334 | 1xbet.com: 34 | poe.com: 5
+
+Number of proxies by country:
+Romania - 177, United States - 112, Latvia - 67, Germany - 54, The Netherlands - 36, India - 24, South Korea - 14, Singapore - 9, Hong Kong - 8, Seychelles - 6, Cambodia - 6, United Kingdom - 6, France - 5, Italy - 5, China - 4, Lithuania - 4, Canada - 2, Mexico - 2, Japan - 2, Finland - 2, Switzerland - 2, Indonesia - 2, Russia - 2, Brazil - 1, Australia - 1, Sri Lanka - 1, Czechia - 1, Ecuador - 1, Vietnam - 1, Taiwan - 1, Zambia - 1, Uzbekistan - 1, Kazakhstan - 1
+
+https://t.me/Proxy_list_Generator
