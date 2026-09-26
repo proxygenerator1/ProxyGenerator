@@ -1,0 +1,19 @@
+Updated: 27/09/2026 00:22 (Kiev)
+Most stable proxies: 1621
+Stable proxies: 4065
+Unstable proxies: 717
+Telegram proxies: 1528
+Countries: 117
+HTTP: 445
+HTTPS: 1255
+SOCKS4: 600
+SOCKS5: 2482
+Protocol records: 4782
+Unique proxies: 4631
+
+discord.com: 3415 | x.com: 3398 | twitch.tv: 3384 | paypal.com: 3374 | tiktok.com: 3265 | steampowered.com: 3258 | avito.ru: 3171 | poe.com: 3151 | spotify.com: 3078 | wikipedia.org: 3073 | bing.com: 3040 | google.com: 3011 | instagram.com: 2983 | cloudflare.com: 2978 | youtube.com: 2957 | netflix.com: 2917 | chatgpt.com: 2904 | qq.com: 2806 | dewu.com: 2525 | mail.ru: 2517 | 1xbet.com: 2148
+
+Number of proxies by country:
+Netherlands - 1230, United States - 972, Luxembourg - 756, India - 123, Germany - 116, Indonesia - 110, Singapore - 98, Russia - 81, Brazil - 78, France - 66, Latvia - 59, United Kingdom - 58, Japan - 51, Canada - 50, Hong Kong - 46, China - 43, South Africa - 38, Romania - 36, Italy - 35, Poland - 35, Ukraine - 35, Lithuania - 34, South Korea - 32, Thailand - 28, Vietnam - 28, Australia - 27, Bangladesh - 26, Finland - 24, Mexico - 23, Pakistan - 22, Colombia - 21, Ireland - 20, Spain - 20, Switzerland - 19, Bulgaria - 17, Morocco - 16, Malaysia - 13, Sweden - 13, Czechia - 12, Ecuador - 12, Turkey - 12, Philippines - 10, Argentina - 9, Cambodia - 9, Hungary - 9, Iran - 9, Austria - 7, Egypt - 7, Serbia - 7, Slovakia - 7, Venezuela - 7, Estonia - 6, Taiwan - 6, Albania - 5, Bosnia and Herzegovina - 5, Botswana - 5, Chile - 5, Iraq - 5, Nepal - 5, Palestine - 5, Syria - 5, Dominican Republic - 4, Israel - 4, Kazakhstan - 4, Moldova - 4, New Zealand - 4, Paraguay - 4, Cyprus - 3, Denmark - 3, Guatemala - 3, Jamaica - 3, Kenya - 3, Myanmar - 3, Nigeria - 3, Norway - 3, Peru - 3, Portugal - 3, Slovenia - 3, Turks and Caicos Islands - 3, Unknown - 3, Uruguay - 3, Armenia - 2, Belgium - 2, Croatia - 2, Georgia - 2, Greece - 2, Honduras - 2, Iceland - 2, Lebanon - 2, Montenegro - 2, Namibia - 2, Saudi Arabia - 2, United Arab Emirates - 2, Azerbaijan - 1, Bahamas - 1, Barbados - 1, Bolivia - 1, Burundi - 1, Costa Rica - 1, Curacao - 1, Ghana - 1, Grenada - 1, Ivory Coast - 1, Lesotho - 1, Libya - 1, Malawi - 1, Malta - 1, Mongolia - 1, Mozambique - 1, North Macedonia - 1, Oman - 1, Puerto Rico - 1, Saint Lucia - 1, Togo - 1, Uganda - 1, Yemen - 1, Zimbabwe - 1
+
+https://t.me/Proxy_list_Generator
