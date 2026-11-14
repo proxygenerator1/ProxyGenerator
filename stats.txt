@@ -1,0 +1,19 @@
+Updated: 14/11/2026 20:52 (Kiev)
+Most stable proxies: 1005
+Stable proxies: 1661
+Unstable proxies: 769
+Telegram proxies: 115
+Countries: 97
+HTTP: 797
+HTTPS: 1202
+SOCKS4: 190
+SOCKS5: 241
+Protocol records: 2430
+Unique proxies: 2363
+
+qq.com: 1404 | cloudflare.com: 1375 | mail.ru: 1355 | discord.com: 1344 | x.com: 1338 | paypal.com: 1322 | twitch.tv: 1320 | wikipedia.org: 1306 | tiktok.com: 1298 | bing.com: 1294 | google.com: 1293 | steampowered.com: 1293 | avito.ru: 1290 | poe.com: 1286 | youtube.com: 1269 | netflix.com: 1267 | spotify.com: 1258 | chatgpt.com: 1243 | instagram.com: 1236 | dewu.com: 1039 | 1xbet.com: 1005
+
+Number of proxies by country:
+United States - 615, China - 280, Germany - 139, Singapore - 112, Netherlands - 110, India - 84, Indonesia - 70, Canada - 58, France - 56, Hong Kong - 53, United Kingdom - 53, Luxembourg - 45, Latvia - 44, Japan - 43, Romania - 39, South Korea - 36, Poland - 32, Lithuania - 30, Malaysia - 30, Russia - 27, Brazil - 26, Thailand - 24, Italy - 23, Philippines - 23, Australia - 21, Spain - 20, South Africa - 18, United Arab Emirates - 17, Ireland - 15, Finland - 14, Mexico - 14, Israel - 13, Bulgaria - 12, Cameroon - 12, Switzerland - 12, Bangladesh - 11, Czechia - 10, Vietnam - 10, Argentina - 9, Sweden - 9, Austria - 8, Greece - 8, Venezuela - 8, Colombia - 7, Hungary - 7, Ukraine - 7, Chile - 6, Iran - 6, Pakistan - 6, Ecuador - 5, Taiwan - 5, Egypt - 4, North Macedonia - 4, Portugal - 4, Serbia - 4, Slovakia - 4, Turkey - 4, Botswana - 3, Dominican Republic - 3, Iceland - 3, New Zealand - 3, Norway - 3, Oman - 3, Peru - 3, Syria - 3, Albania - 2, Armenia - 2, El Salvador - 2, Guatemala - 2, Moldova - 2, Nigeria - 2, Palestine - 2, Paraguay - 2, Belgium - 1, Bosnia and Herzegovina - 1, Cambodia - 1, Curacao - 1, Cyprus - 1, Denmark - 1, Ghana - 1, Honduras - 1, Kazakhstan - 1, Lebanon - 1, Malawi - 1, Mongolia - 1, Montenegro - 1, Myanmar - 1, Namibia - 1, Nepal - 1, Saudi Arabia - 1, Slovenia - 1, Tanzania - 1, Togo - 1, Trinidad and Tobago - 1, Uganda - 1, Uruguay - 1, Zimbabwe - 1
+
+https://t.me/Proxy_list_Generator
