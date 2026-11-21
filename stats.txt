@@ -1,0 +1,19 @@
+Updated: 21/11/2026 15:28 (Kiev)
+Most stable proxies: 875
+Stable proxies: 1539
+Unstable proxies: 783
+Telegram proxies: 42
+Countries: 95
+HTTP: 921
+HTTPS: 1067
+SOCKS4: 187
+SOCKS5: 147
+Protocol records: 2322
+Unique proxies: 2294
+
+cloudflare.com: 1288 | qq.com: 1260 | x.com: 1237 | discord.com: 1235 | twitch.tv: 1234 | bing.com: 1226 | paypal.com: 1226 | google.com: 1223 | tiktok.com: 1217 | wikipedia.org: 1199 | spotify.com: 1195 | poe.com: 1194 | steampowered.com: 1182 | netflix.com: 1181 | instagram.com: 1174 | youtube.com: 1167 | avito.ru: 1155 | chatgpt.com: 1151 | mail.ru: 1144 | dewu.com: 992 | 1xbet.com: 823
+
+Number of proxies by country:
+United States - 442, China - 285, Singapore - 138, Germany - 114, Indonesia - 101, India - 87, Netherlands - 81, Japan - 56, France - 48, Canada - 46, Hong Kong - 46, Philippines - 43, Brazil - 42, Romania - 42, United Kingdom - 40, South Korea - 38, Switzerland - 36, Malaysia - 34, Poland - 34, Russia - 34, Latvia - 30, Thailand - 29, Luxembourg - 26, Australia - 25, Lithuania - 25, Vietnam - 24, Bangladesh - 23, South Africa - 19, Italy - 18, Mexico - 16, Spain - 16, Finland - 15, Israel - 15, United Arab Emirates - 14, Bulgaria - 12, Cameroon - 12, Ecuador - 12, Colombia - 11, Sweden - 11, Venezuela - 11, Turkey - 10, Greece - 8, Pakistan - 8, Argentina - 7, Czechia - 7, Austria - 6, Chile - 6, Egypt - 6, Ireland - 6, Paraguay - 6, Cambodia - 5, Hungary - 5, Taiwan - 5, Ukraine - 5, Cyprus - 4, Estonia - 4, Iran - 4, Nepal - 4, Peru - 4, Portugal - 4, Serbia - 4, Slovakia - 4, Syria - 4, Botswana - 3, Armenia - 2, Belgium - 2, Dominican Republic - 2, El Salvador - 2, Honduras - 2, Iceland - 2, Kenya - 2, New Zealand - 2, Oman - 2, Palestine - 2, Uruguay - 2, Albania - 1, Azerbaijan - 1, Curacao - 1, Denmark - 1, Ghana - 1, Iraq - 1, Kazakhstan - 1, Lebanon - 1, Libya - 1, Montenegro - 1, Myanmar - 1, Namibia - 1, Norway - 1, Saudi Arabia - 1, Slovenia - 1, Tanzania - 1, Togo - 1, Trinidad and Tobago - 1, Uganda - 1, Zimbabwe - 1
+
+https://t.me/Proxy_list_Generator
