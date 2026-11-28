@@ -1,0 +1,19 @@
+Updated: 28/11/2026 19:14 (Kiev)
+Most stable proxies: 823
+Stable proxies: 1480
+Unstable proxies: 680
+Telegram proxies: 31
+Countries: 93
+HTTP: 803
+HTTPS: 1050
+SOCKS4: 191
+SOCKS5: 116
+Protocol records: 2160
+Unique proxies: 2135
+
+qq.com: 1294 | mail.ru: 1213 | cloudflare.com: 1165 | x.com: 1123 | discord.com: 1121 | spotify.com: 1109 | paypal.com: 1108 | wikipedia.org: 1099 | google.com: 1093 | bing.com: 1090 | steampowered.com: 1082 | poe.com: 1080 | netflix.com: 1076 | tiktok.com: 1073 | twitch.tv: 1072 | avito.ru: 1058 | youtube.com: 1057 | chatgpt.com: 1051 | instagram.com: 1033 | dewu.com: 917 | 1xbet.com: 785
+
+Number of proxies by country:
+United States - 461, China - 258, Singapore - 143, Germany - 98, India - 91, Indonesia - 80, Netherlands - 65, Canada - 59, Japan - 52, Romania - 44, Hong Kong - 43, United Kingdom - 41, France - 38, South Korea - 36, Malaysia - 33, Vietnam - 31, South Africa - 30, Poland - 29, Thailand - 29, Australia - 28, Russia - 28, Brazil - 27, Lithuania - 27, Philippines - 25, Spain - 25, Mexico - 21, Latvia - 20, Italy - 18, United Arab Emirates - 18, Finland - 17, Ireland - 15, Bangladesh - 12, Cameroon - 11, Bulgaria - 9, Israel - 9, Venezuela - 9, Argentina - 8, Colombia - 8, Czechia - 8, Luxembourg - 8, Sweden - 8, Switzerland - 8, Greece - 7, Chile - 6, Ecuador - 6, Hungary - 6, Pakistan - 6, Ukraine - 6, Austria - 5, Egypt - 5, Iran - 5, Taiwan - 5, Turkey - 5, Botswana - 4, Dominican Republic - 4, Norway - 4, Portugal - 4, Slovakia - 4, Georgia - 3, Nepal - 3, Serbia - 3, Syria - 3, Belgium - 2, Cambodia - 2, El Salvador - 2, Guatemala - 2, Honduras - 2, Kenya - 2, New Zealand - 2, Albania - 1, Armenia - 1, Curacao - 1, Cyprus - 1, Denmark - 1, Estonia - 1, Ghana - 1, Kazakhstan - 1, Lebanon - 1, Moldova - 1, Mongolia - 1, Montenegro - 1, Myanmar - 1, Namibia - 1, Oman - 1, Paraguay - 1, Peru - 1, Saudi Arabia - 1, Slovenia - 1, Togo - 1, Trinidad and Tobago - 1, Uganda - 1, Uruguay - 1, Zimbabwe - 1
+
+https://t.me/Proxy_list_Generator
